@@ -3,3 +3,4 @@
 ## Terceiro commit(feito na branch "nova_branch") - Galvão
 ## Quarto commit(feito na branch "nova_branch") - Co-author
 ## Quinto commit(feito na branch "nova_branch") - Gustavo
+## Sexto commit(feito na branch "nova_branch") - Moallysson
